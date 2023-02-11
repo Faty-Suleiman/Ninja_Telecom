@@ -5,4 +5,4 @@ call_id;
 sms_id;
 data_id;
 MMS_id;
-full S
+
